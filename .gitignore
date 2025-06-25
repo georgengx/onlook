@@ -15,8 +15,6 @@ release
 *.local
 
 # Editor directories and files
-.vscode/.debug.env
-.vscode/settings.json
 .idea
 .DS_Store
 *.suo
@@ -44,3 +42,7 @@ yarn.lock
 .env.production.local
 
 mise.toml
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
